@@ -12,9 +12,14 @@ The objective of the project:
 •	Evaluate performance analysis.
 
 SYSTEM ARCHITECTURE:
+
 ![image](https://github.com/adityauke/PLANT-LEAF-DISEASE-PREDICTION-/assets/91900327/0fe078da-9842-49c6-a9f4-1e1b0acb5277)
+
+
 USE CASE DIAGRAM:
+
 ![image](https://github.com/adityauke/PLANT-LEAF-DISEASE-PREDICTION-/assets/91900327/19250c2b-5948-4b55-a407-bbd1acd01d75)
+
 
 What is Convolution Neural Network (CNN)?
 In deep learning, a convolutional neural network (CNN) is a class of artificial neural networks most commonly applied to analyze visual imagery. CNNs use a mathematical operation called convolution in place of general matrix multiplication in at least one of their layers. They are specifically designed to process pixel data and are used in image recognition and processing. They have applications in image and video recognition, recommender systems image classification, image segmentation, medical image analysis, natural language processing,[4] brain–computer interfaces, and financial time series. CNNs are also known as Shift Invariant or Space Invariant Artificial Neural Networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation-equivariant responses known as feature maps. Counter-intuitively, most convolutional neural networks are not invariant to translation, due to the down-sampling operation they apply to the input. CNNs are regularized versions of multilayer perceptron. Multilayer perceptrons are usually fully connected networks, that is, each neuron in one layer is connected to all neurons in the next layer. These networks' "full connectivity" makes them prone to overfitting data. Typical ways of regularization, or preventing overfitting, include penalizing parameters during training (such as weight decay) or trimming connectivity.
