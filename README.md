@@ -6,10 +6,12 @@ Identifying disease in plants is a very tough task, and if it’s not monitored 
 Agriculture, being a substantial contributor to the world’s economy, is the key source of food, income, and employment. In India, as in other low- and middle-income countries, where an enormous number of farmers exist, agriculture contributes 18% of the nation’s income and boosts the employment rate to 53%. For the past 3 years, the gross value added (GVA) by agriculture to the country’s total economy has increased from 17.6% to 20.2%. This sector provides the highest share of economic growth. Hence, the impact of plant disease and infections from pests on agriculture may affect the world’s economy by reducing the production quality of food. Prophylactic treatments are not effective for the prevention of epidemics and endemics. Early monitoring and proper diagnosis of crop disease using a proper crop protection system may prevent losses in production quality. Identifying types of plant disease is extremely important and is considered a crucial issue. Early diagnosis of plant disease may pave the way for better decision-making in managing agricultural production. Infected plants generally have obvious marks or spots on the stems, fruits, leaves, or flowers. Most specifically, each infection and pest condition leaves unique patterns that can be used to diagnose abnormalities. Identifying a plant disease requires expertise and manpower. Furthermore, manual examination when identifying the type of infection of plants is subjective and time-consuming, and, sometimes, the disease identified by farmers or experts may be misleading. This may lead to the usage of an unsuitable drug during the process of evaluating the plant disease, which may deteriorate the quality of the crops and end up polluting nature.
 
 The objective of the project:
+
 •	To process the data of the leaf pictures from the plant dataset.
 •	Extract the feature from pre-processed data.
 •	Accurately classify the leaf disease.
 •	Evaluate performance analysis.
+
 
 SYSTEM ARCHITECTURE:
 
